@@ -1,0 +1,10 @@
+streamlit==1.9.0
+scikit-learn==1.0.2
+numpy==1.21.5
+pandas==1.4.2
+
+Explanation of the Dependencies:
+streamlit: The framework used to create the web application.
+scikit-learn: The machine learning library used to train and make predictions with the Logistic Regression model.
+numpy: A library for numerical operations, used for handling arrays and data transformations.
+pandas: A library for data manipulation and analysis, which can be useful for preprocessing data if needed.
